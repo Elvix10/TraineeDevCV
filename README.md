@@ -13,8 +13,11 @@ The frontend app is built with React.js, a JavaScript library for building user 
 
 ## Getting Started
 
-Clone the repository: git clone https://github.com/yourusername/links-management.git
-Install dependencies for the backend: cd links-management/backend && npm install
-Install dependencies for the frontend: cd links-management/frontend && npm install
-Start the backend server: cd links-management/backend && adonis serve --dev
-Start the frontend app: cd links-management/frontend && npm start
+Clone the repository: git clone https://github.com/Elvix10/TraineeDevCV.git
+Install dependencies for the backend: cd TraineeDevCV/linksManagerAPI && npm install
+Install dependencies for the frontend: cd TraineeDevCV/linksManagerReactjs
+ && npm install
+Start the backend server: cd TraineeDevCV/linksManagerAPI && adonis serve --dev
+Start the frontend app:cd TraineeDevCV/linksManagerReactjs  && npm start
+
+you can access the project in production here https://links-management.netlify.app/
